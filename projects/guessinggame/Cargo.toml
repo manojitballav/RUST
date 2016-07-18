@@ -1,0 +1,6 @@
+[package]
+name = "guessing_game"
+version = "0.0.1"
+authors = ["manojitballav <manojitballav@outlook.com>"]
+[dependencies]
+rand="0.3.14"
